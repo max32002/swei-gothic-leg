@@ -53,10 +53,11 @@
     
     
 ## 相關網頁
-* 獅尾彩虹腿 Swei.Gothic.Leg
+
+* 獅尾腿圓 Swei.Gothic.Leg
 https://max-everyday.com/2020/08/swei-gothic-leg/
 * 獅尾彩虹腿 Swei.Rainbow.Leg
-https://max-everyday.com/2020/08/swei-gothic-leg/
+https://max-everyday.com/2020/08/swei-rainbow-leg/
 * 花園肉丸
 https://max-everyday.com/2020/08/hana-meatball/
 * B2花園
