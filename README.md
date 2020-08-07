@@ -1,4 +1,4 @@
-# 獅尾腿圓 Swei.Gothic.Leg
+# 獅尾腿圓體 Swei.Gothic.Leg
 
 獅尾腿圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)變圓改造，和獅尾圓體的差別在有長腿，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；歡迎大家自由應用、自由優化、自由改作！
 
