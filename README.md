@@ -1,6 +1,6 @@
 # 獅尾腿圓 Swei.Gothic.Leg
 
-獅尾腿圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的變圓改造，和獅尾圓體的差別在有長腿，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；歡迎大家自由應用、自由優化、自由改作！
+獅尾腿圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)變圓改造，和獅尾圓體的差別在有長腿，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；歡迎大家自由應用、自由優化、自由改作！
 
 ![字體預覽](https://github.com/max32002/swei-gothic-leg/raw/master/preview/welcome.png)
 
@@ -25,7 +25,7 @@
 ```
 @font-face {
   font-family: SweiGothicLegCJKtc-Regular;
-  src: url(https://github.com/max32002/swei-gothic-leg/raw/master/WebFont/CJK%20TC/SweiGothicLegCJKtc-Regular.woff2) format("woff22")
+  src: url(https://github.com/max32002/swei-gothic-leg/raw/master/WebFont/CJK%20TC/SweiGothicLegCJKtc-Regular.woff2) format("woff2")
   , url(https://github.com/max32002/swei-gothic-leg/raw/master/WebFont/CJK%20TC/SweiGothicLegCJKtc-Regular.woff) format("woff");
 }
 ```
@@ -35,13 +35,12 @@
 
 * 這不是一個專業的字型檔案。
 * 很多字還是可以看到思源黑體的的直角。
-* 因為拔腳，會造成部分文字「懸空」。
 * 希望有贊助者，或其他勇者繼續改良和調整很多怪怪的小細節。
 * 由於小編對字體編碼方式完全不清楚，相較於原版的思源黑體，可能有掉一些符號或不常用的字。
 
 ## 附註
 
-* 演算黑科技將字體下半邊變圓改造，請參考獅尾圓體專案 /python/ 目錄下的腳本檔案。透過調整程式碼，也許也可以產生出新的有趣字型。目前的程式應該還有很多錯誤或需要再加強的地方。請先把要處理的字型，轉成 FontForge 的 sfdir, 再透過程式去處理產生出來的檔案。
+* 演算黑科技將字體變圓改造，請參考獅尾圓體專案 /python/ 目錄下的腳本檔案。透過調整程式碼，也許也可以產生出新的有趣字型。目前的程式應該還有很多錯誤或需要再加強的地方。請先把要處理的字型，轉成 FontForge 的 sfdir, 再透過程式去處理產生出來的檔案。
 
 ## 著作權與授權
 
@@ -58,9 +57,9 @@
 https://max-everyday.com/2020/08/swei-gothic-leg/
 * 獅尾彩虹腿 Swei.Rainbow.Leg
 https://max-everyday.com/2020/08/swei-rainbow-leg/
-* 花園肉丸
+* 花園肉丸 Hana Meatball
 https://max-everyday.com/2020/08/hana-meatball/
-* B2花園
+* B2花園 B2 Hana
 https://max-everyday.com/2020/08/b2-hana-font/
 * 獅尾XD珍珠 Swei.XD.Pearl
 https://max-everyday.com/2020/07/swei-xd-pearl/
