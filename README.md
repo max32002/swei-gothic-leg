@@ -4,6 +4,9 @@
 
 ![字體預覽](https://github.com/max32002/swei-gothic-leg/raw/master/preview/welcome.png)
 
+和思源黑體一樣，支援7種的字重：
+![字體比較預覽](https://github.com/max32002/swei-gothic-leg/raw/master/preview/compare_style.png)
+
 ## 與其他字體的比較
 * 在「刂」的筆畫，獅尾比較相似台灣(教育部國字標準字體)教育部推薦字體筆順。
 * 在「肉」、「糸」、「女」、「辶」、「食」的筆畫，獅尾比較相似台灣教育部推薦字體筆順，適合教育用途。
@@ -25,8 +28,8 @@
 ```
 @font-face {
   font-family: SweiGothicLegCJKtc-Regular;
-  src: url(https://github.com/max32002/swei-gothic-leg/raw/master/WebFont/CJK%20TC/SweiGothicLegCJKtc-Regular.woff2) format("woff2")
-  , url(https://github.com/max32002/swei-gothic-leg/raw/master/WebFont/CJK%20TC/SweiGothicLegCJKtc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-gothic-leg@2.0/WebFont/CJK%20TC/SweiGothicLegCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-gothic-leg@2.0/WebFont/CJK%20TC/SweiGothicLegCJKtc-Regular.woff) format("woff");
 }
 ```
 您也可以透過從CDN引入在GitHub上woff2檔案的網址，再把上方的url()內容置換成CDN快取後的網址，將可大幅加快網頁載入。推薦使用 jsDelivr 的服務，在速度上挺不錯的，參考看看： www.cdnperf.com/#!performance,Asia 。
